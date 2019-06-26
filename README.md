@@ -8,5 +8,5 @@
 
 ## Sign Syntax
 
-#### [BS | BUNGEESIGNS]
-#### (SERVER)
+```[BS | BUNGEESIGNS]
+(SERVER)```
