@@ -4,6 +4,6 @@
 
 ## Permissions:
 
-### Create a sign: __bungeesigns.create__
+#### Create a sign: bungeesigns.create
 
-### Use a sign: __bungeesigns.use__
+#### Use a sign: bungeesigns.use
