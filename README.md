@@ -12,3 +12,8 @@
 [BS | BUNGEESIGNS]
 (SERVER)
 ```
+
+## Coming Soon
+
+#### Permissions on signs
+#### Cost
